@@ -30,10 +30,10 @@
    - add more records and modify the config as you need
    ```javascript
    const routes = {
-     "docker.zhigu34.stream": "https://registry-1.docker.io",
-     "quay.zhigu34.stream": "https://quay.io",
-     "gcr.zhigu34.stream": "https://k8s.gcr.io",
-     "k8s-gcr.zhigu34.stream": "https://k8s.gcr.io",
-     "ghcr.zhigu34.stream": "https://ghcr.io",
+     "docker.domain.com": "https://registry-1.docker.io",
+     "quay.domain.com": "https://quay.io",
+     "gcr.domain.com": "https://k8s.gcr.io",
+     "k8s-gcr.domain.com": "https://k8s.gcr.io",
+     "ghcr.domain.com": "https://ghcr.io",
    };
    ```
